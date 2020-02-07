@@ -13,8 +13,12 @@
 
 
 ## Single Element (containing text-node-containing-element)
-``````<h2><u>Another Second Level Heading</u></h2>``````
+``````<h2><em>Another Second Level Heading</em></h2>``````
 
 
-## Single Element (containing both text-node and text-node-containing-element)
-```<h2>A <em>third</em> Second Level Heading</h2>```
+## Single Element (containing text-node _and_ text-node-containing-element)
+```<h2>A <strong>third</strong> Second Level Heading</h2>```
+
+
+## Single Element (containing text-node _and_ element containing text-node-containing-element)
+```<h2>A <strong><em>fourth</em></strong> Second Level Heading</h2>```
