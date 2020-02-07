@@ -20,5 +20,5 @@
 ```<h2>A <strong>third</strong> Second Level Heading</h2>```
 
 
-## Single Element (containing text-node _and_ element containing text-node-containing-element)
+## Single Element (containing text-node _and_ nested element containing text-node)
 ```<h2>A <strong><em>fourth</em></strong> Second Level Heading</h2>```
