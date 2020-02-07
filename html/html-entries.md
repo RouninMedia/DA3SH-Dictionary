@@ -1,9 +1,20 @@
 # HTML Entries (DA3SH Dictionary)
 
-## ```<br />```
+## Single Element (self-closing)
+```<br />```
 
 
-## ```<div></div>```
+## Single Element (empty)
+```<div></div>```
 
 
-## ```<h1>This is a Top Level Heading</h1>```
+## Single Element (containing text node)
+```<h1>This is a Top Level Heading</h1>```
+
+
+## Single Element (containing text-node-containing-element)
+```  ```
+
+
+## Single Element (containing both text-node and text-node-containing-element)
+```  ```
