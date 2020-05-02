@@ -6,4 +6,4 @@ _____
 
 ## Selector using alternative ashivaModule Namespace
 
-ⒶⓃ«PublisherName_ModuleName»
+ⓐⓃ«PublisherName_ModuleName»
