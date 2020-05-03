@@ -7,9 +7,9 @@ _____
 
 ## Selector using alternative ashivaModule Namespace
 
- - `#{«PublisherName:::ModSig_ModuleName»}my-id`
- - `#{«PublisherName:::ModSig_ModuleName::HardModifier1::HardModifier2»}my-id`
- - `#{«PublisherName:::ModSig_ModuleName::HardModifier1::HardModifier2#SoftModifier1#SoftModifier2»}my-id`
- - `.{«PublisherName:::ModSig_ModuleName»}my-class`
- - `.{«PublisherName:::ModSig_ModuleName::HardModifier1::HardModifier2»}my-class`
- - `.{«PublisherName:::ModSig_ModuleName::HardModifier1::HardModifier2#SoftModifier1#SoftModifier2»}my-class`
+ - `#{«PublisherName:::PublisherShortName_ModuleName»}my-id`
+ - `#{«PublisherName:::PublisherShortName_ModuleName::HardModifier1::HardModifier2»}my-id`
+ - `#{«PublisherName:::PublisherShortName_ModuleName::HardModifier1::HardModifier2#SoftModifier1#SoftModifier2»}my-id`
+ - `.{«PublisherName:::PublisherShortName_ModuleName»}my-class`
+ - `.{«PublisherName:::PublisherShortName_ModuleName::HardModifier1::HardModifier2»}my-class`
+ - `.{«PublisherName:::PublisherShortName_ModuleName::HardModifier1::HardModifier2#SoftModifier1#SoftModifier2»}my-class`
